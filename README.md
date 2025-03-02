@@ -1,5 +1,6 @@
-# Hi There, I'm Mahima Gunde 👋  
+# Hi There👋  
 
+I'm Mahima Gunde
 I'm a passionate **Data Analyst** with experience in data exploration, cleaning, and visualization.  
 I graduated with a degree in **master of computer science**, specializing in **Data Analytics**.  
 How to reach me: mahimagunde@gmail.com 
