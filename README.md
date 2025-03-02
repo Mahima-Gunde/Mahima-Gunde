@@ -1,11 +1,10 @@
-# Hi There👋  
+# Hi, I'm Mahima Gunde👋  
 
-I'm **Mahima Gunde**.
 I'm a passionate **Data Analyst** with experience in data exploration, cleaning, and visualization.  
 I graduated with a degree in **master of computer science**, specializing in **Data Analytics**.  
 How to reach me: mahimagunde@gmail.com 
 
-✨ I specialize in analyzing and interpreting large datasets to help businesses make data-driven decisions. My expertise lies in transforming data into actionable insights using statistical techniques and data visualization.
+✨ I specialize in analyzing and interpreting large datasets to help businesses make data-driven decisions. My expertise is transforming data into actionable insights using statistical techniques and data visualization.
 
 ## 🛠️ Technical Skills  
 
